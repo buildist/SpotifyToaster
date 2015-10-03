@@ -36,7 +36,7 @@
             // trackBox
             // 
             this.trackBox.AutoSize = true;
-            this.trackBox.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.trackBox.BackColor = System.Drawing.Color.Black;
             this.trackBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.trackBox.ForeColor = System.Drawing.Color.YellowGreen;
             this.trackBox.Location = new System.Drawing.Point(80, 57);
@@ -48,7 +48,7 @@
             // artistBox
             // 
             this.artistBox.AutoSize = true;
-            this.artistBox.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.artistBox.BackColor = System.Drawing.Color.Black;
             this.artistBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.artistBox.ForeColor = System.Drawing.Color.YellowGreen;
             this.artistBox.Location = new System.Drawing.Point(80, 34);
@@ -60,7 +60,7 @@
             // albumBox
             // 
             this.albumBox.AutoSize = true;
-            this.albumBox.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.albumBox.BackColor = System.Drawing.Color.Black;
             this.albumBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.albumBox.ForeColor = System.Drawing.Color.YellowGreen;
             this.albumBox.Location = new System.Drawing.Point(80, 10);
@@ -73,7 +73,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(363, 84);
             this.ControlBox = false;
             this.Controls.Add(this.albumBox);
@@ -85,7 +85,7 @@
             this.ShowInTaskbar = false;
             this.Text = "ToastOverlay";
             this.TopMost = true;
-            this.TransparencyKey = System.Drawing.Color.WhiteSmoke;
+            this.TransparencyKey = System.Drawing.Color.Black;
             this.ResumeLayout(false);
             this.PerformLayout();
 
